@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\destroy-the-plane\\destroytheplane\\intermediate\\build\\win64\\unrealeditor\\inc\\destroytheplane\\uht\\combatgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\destroy-the-plane\\destroytheplane\\intermediate\\build\\win64\\x64\\destroytheplaneeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\destroy-the-plane\\destroytheplane\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\destroytheplane\\definitions.destroytheplane.h",
+            "f:\\destroy-the-plane\\destroytheplane\\source\\destroytheplane\\variant_combat\\combatgamemode.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "f:\\destroy-the-plane\\destroytheplane\\intermediate\\build\\win64\\unrealeditor\\inc\\destroytheplane\\uht\\combatgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

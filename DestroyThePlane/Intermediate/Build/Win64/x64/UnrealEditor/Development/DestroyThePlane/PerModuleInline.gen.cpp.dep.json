@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\destroy-the-plane\\destroytheplane\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\destroytheplane\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\destroy-the-plane\\destroytheplane\\intermediate\\build\\win64\\x64\\destroytheplaneeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\destroy-the-plane\\destroytheplane\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\destroytheplane\\definitions.destroytheplane.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

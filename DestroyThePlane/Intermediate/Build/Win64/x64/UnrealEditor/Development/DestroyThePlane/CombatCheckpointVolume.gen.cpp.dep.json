@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\destroy-the-plane\\destroytheplane\\intermediate\\build\\win64\\unrealeditor\\inc\\destroytheplane\\uht\\combatcheckpointvolume.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\destroy-the-plane\\destroytheplane\\intermediate\\build\\win64\\x64\\destroytheplaneeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\destroy-the-plane\\destroytheplane\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\destroytheplane\\definitions.destroytheplane.h",
+            "f:\\destroy-the-plane\\destroytheplane\\source\\destroytheplane\\variant_combat\\gameplay\\combatcheckpointvolume.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "f:\\destroy-the-plane\\destroytheplane\\intermediate\\build\\win64\\unrealeditor\\inc\\destroytheplane\\uht\\combatcheckpointvolume.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

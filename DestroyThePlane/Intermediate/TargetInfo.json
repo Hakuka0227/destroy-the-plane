@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DestroyThePlane",
+			"Path": "..\\Source\\DestroyThePlane.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DestroyThePlaneEditor",
+			"Path": "..\\Source\\DestroyThePlaneEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

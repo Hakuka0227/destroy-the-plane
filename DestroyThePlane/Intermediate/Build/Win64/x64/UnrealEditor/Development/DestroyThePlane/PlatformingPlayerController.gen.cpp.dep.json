@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\destroy-the-plane\\destroytheplane\\intermediate\\build\\win64\\unrealeditor\\inc\\destroytheplane\\uht\\platformingplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\destroy-the-plane\\destroytheplane\\intermediate\\build\\win64\\x64\\destroytheplaneeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\destroy-the-plane\\destroytheplane\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\destroytheplane\\definitions.destroytheplane.h",
+            "f:\\destroy-the-plane\\destroytheplane\\source\\destroytheplane\\variant_platforming\\platformingplayercontroller.h",
+            "f:\\destroy-the-plane\\destroytheplane\\intermediate\\build\\win64\\unrealeditor\\inc\\destroytheplane\\uht\\platformingplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
